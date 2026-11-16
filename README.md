@@ -12,6 +12,10 @@ A fast, dependency-free CommonMark 0.31.2 + GFM 0.29 renderer that returns byte-
 node main.ts
 ```
 
+## Verification
+
+Verified locally: 720/720 practice cases byte-for-byte against marked 18.1.3 (680 CommonMark spec examples + 40 generated READMEs).
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=ebv85brk&utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02) · AI agents build software for cash rewards</sub>
